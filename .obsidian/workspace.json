@@ -11,10 +11,15 @@
             "id": "9af262a190847abb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Начинайте отсюда.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0. Начинайте отсюда"
             }
           }
         ]
@@ -83,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0. Начинайте отсюда.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 0. Начинайте отсюда"
             }
           }
         ]
@@ -178,9 +184,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "0. Начинайте отсюда.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0. Начинайте отсюда"
             }
           }
         ]
@@ -205,50 +213,50 @@
   },
   "active": "9af262a190847abb",
   "lastOpenFiles": [
-    "0. Начинайте отсюда.md",
-    "Все скрипты.md",
-    "README.md",
-    "Все люди.md",
+    "Термины/Троедурство.md",
+    "Термины",
     "Руты.canvas",
-    "Пересказ скриптов/Extra/MLE_11_16.md",
-    "Пересказ скриптов/Extra/MLE_11_15a.md",
-    "Пересказ скриптов/Extra/MLE_11_14b.md",
-    "Пересказ скриптов/Extra/MLE_11_15.md",
-    "Пересказ скриптов/Extra/MLE_11_16a.md",
-    "Пересказ скриптов/Extra/MLE_11_17.md",
-    "Пересказ скриптов/Extra/MLE_11_18.md",
-    "Пересказ скриптов/Extra/MLE_11_19.md",
-    "Люди/Ваня Грехов.md",
-    "Люди/kora0081.md",
-    "Люди/Артемий Сахаров.md",
-    "Люди/tomafura.md",
-    "Люди/Go Bin.md",
-    "Obsidian/Шаблоны/Given piece.md",
-    "Люди/Максим Сергеев.md",
-    "Люди/Гоша Кравченко.md",
-    "Люди/blackdragon547.md",
-    "Люди/Никита Загрязкин.md",
+    "Правила/Общие/Числительные.md",
+    "Правила/Общие/Пунктуация.md",
+    "Правила/Общие/Несколько персонажей говорят в одной реплике.md",
+    "Правила/Общие/Буква ё существует.md",
+    "Правила/Военные арки/Часовая позиция.md",
+    "Правила/Военные арки/Формирования и их размеры.md",
+    "Правила/Военные арки/Построения.md",
+    "Правила/Военные арки/Позывные.md",
+    "Правила/Военные арки/Пишется с маленькой буквы.md",
+    "Правила/Военные арки/Пишется с большой буквы.md",
+    "Правила/Военные арки/Пересечение терминов с Alternaitve.md",
+    "Правила/Военные арки/Как обращаться к BETA.md",
+    "Правила/Военные арки/Кавычки в названиях ТНИ.md",
+    "Правила/Военные арки/Иностранные названия.md",
+    "Правила/Общие",
+    "Правила/Военные арки",
+    "Правила",
+    "Персонажи/Extra/Тамасэ Мики (Extra).md",
+    "Персонажи/Extra/Сироганэ Такеру (Extra).md",
+    "Персонажи/Extra/Сакаки Чизуру (Extra).md",
+    "Персонажи/Extra/Мицуруги Мэйя (Extra).md",
+    "Персонажи/Extra/Кагами Сумика (Extra).md",
+    "Персонажи/Extra/Аяминэ Кей (Extra).md",
+    "Персонажи/Extra",
+    "Персонажи",
     "Пересказ скриптов/Extra/MLE_Epilogue_Miki.md",
     "Пересказ скриптов/Extra/MLE_Epilogue_Kei.md",
     "Пересказ скриптов/Extra/MLE_Epilogue_Chizuru.md",
-    "Obsidian/Шаблоны/Not final translation.md",
-    "Термины",
+    "Пересказ скриптов/Extra/MLE_12_19.md",
+    "Пересказ скриптов/Extra/MLE_11_19.md",
     "Пересказ скриптов/Extra",
-    "Персонажи/Extra",
-    "Правила/Общие",
-    "Правила/Военные арки",
+    "Пересказ скриптов",
+    "Obsidian/Шаблоны",
+    "Obsidian",
     "Attachements/Pasted image 20241103110941.png",
     "Obsidian/Вложения/Пост 28.01.2024/Pasted image 20240128213417.png",
     "Obsidian/Вложения/Пост 21.01.2024/Pasted image 20240121200709.png",
     "Obsidian/Вложения/Пост 21.01.2024/Pasted image 20240121200605.png",
-    "Obsidian/Вложения/Пост 14.07.2024/TSF on street.psd",
     "Obsidian/Вложения/Пост 14.07.2024/TSF on street.png",
     "Obsidian/Вложения/Пост 11.02.2024/Pasted image 20240204231225.png",
-    "Obsidian/Вложения/Пост 05.08.2024/Video thumbnail.psd",
     "Obsidian/Вложения/Пост 05.08.2024/Video thumbnail.jpg",
-    "Obsidian/Вложения/Пост 28.01.2024",
-    "Obsidian/Вложения/Пост 21.01.2024",
-    "Obsidian/Вложения/Пост 14.07.2024",
     "Obsidian/Вложения/Theodor and Katya.png",
     "Obsidian/Вложения/Screenshot 2024-09-27 at 21.25.57.png",
     "Obsidian/Вложения/Pasted image 20240218231447.png"
