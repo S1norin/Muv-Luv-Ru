@@ -11,15 +11,10 @@
             "id": "9af262a190847abb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Начинайте отсюда.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0. Начинайте отсюда"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +83,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0. Начинайте отсюда.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +110,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0. Начинайте отсюда"
+              "title": "Graph view"
             }
           }
         ]
@@ -184,11 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Начинайте отсюда.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 0. Начинайте отсюда"
+              "title": "Outline"
             }
           }
         ]
@@ -207,11 +199,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "vim-toggle:Toggle Vim Mode": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9af262a190847abb",
   "lastOpenFiles": [
+    "0. Начинайте отсюда.md",
+    "Все скрипты.md",
+    "README.md",
     "Все люди.md",
     "Руты.canvas",
     "Пересказ скриптов/Extra/MLE_11_16.md",
@@ -236,8 +232,6 @@
     "Пересказ скриптов/Extra/MLE_Epilogue_Kei.md",
     "Пересказ скриптов/Extra/MLE_Epilogue_Chizuru.md",
     "Obsidian/Шаблоны/Not final translation.md",
-    "Термины/Троедурство.md",
-    "5. Общие рекомендации по переводу.md",
     "Термины",
     "Пересказ скриптов/Extra",
     "Персонажи/Extra",
